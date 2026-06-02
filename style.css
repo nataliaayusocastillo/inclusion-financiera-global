@@ -1,0 +1,131 @@
+/* ===================================== */
+/* CONFIGURACIÓN GENERAL */
+/* ===================================== */
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    line-height: 1.8;
+    color: #2c2c2c;
+    background-color: #ffffff;
+}
+
+/* ===================================== */
+/* TÍTULOS */
+/* ===================================== */
+
+h1 {
+    text-align: center;
+    font-size: 2.8rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #1f4e79;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #d9d9d9;
+    color: #1f4e79;
+}
+
+h3 {
+    font-size: 1.4rem;
+    margin-top: 60px;
+    color: #3b3b3b;
+}
+
+/* ===================================== */
+/* TEXTO */
+/* ===================================== */
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.intro {
+    font-size: 1.2rem;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-left: 5px solid #1f4e79;
+    border-radius: 5px;
+}
+
+/* ===================================== */
+/* CONCLUSIONES */
+/* ===================================== */
+
+.conclusion {
+    background-color: #f5f5f5;
+    border-left: 6px solid #1f4e79;
+    padding: 25px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+
+/* ===================================== */
+/* TABLEAU */
+/* ===================================== */
+
+.tableauPlaceholder {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/* ===================================== */
+/* IMÁGENES */
+/* ===================================== */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ===================================== */
+/* ENLACES */
+/* ===================================== */
+
+a {
+    color: #1f4e79;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ===================================== */
+/* SEPARACIÓN ENTRE BLOQUES */
+/* ===================================== */
+
+section {
+    margin-bottom: 80px;
+}
+
+/* ===================================== */
+/* RESPONSIVE */
+/* ===================================== */
+
+@media (max-width: 768px) {
+
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
