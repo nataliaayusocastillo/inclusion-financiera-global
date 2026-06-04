@@ -77,7 +77,7 @@ Visualización publicada en GitHub Pages:
 
 Visualizaciones desarrolladas con Tableau Public:
 
-[Enlace a Tableau Public](https://public.tableau.com/app/profile/natalia.ayuso.castillo/viz/PRACT2_17804361907030/]
+[https://public.tableau.com/app/profile/natalia.ayuso.castillo/viz/PRACT2_17804361907030/]
 
 ---
 
