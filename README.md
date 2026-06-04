@@ -61,8 +61,8 @@ Los datos fueron procesados y transformados mediante R para generar las tablas u
 .
 ├── index.html
 ├── style.css
-├── data/
-├── scripts/
+├── Data/
+├── Pract1_tratamiento.R
 ├── README.md
 └── LICENSE
 ```
