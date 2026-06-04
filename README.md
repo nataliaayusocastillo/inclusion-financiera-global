@@ -73,7 +73,7 @@ Los datos fueron procesados y transformados mediante R para generar las tablas u
 
 Visualización publicada en GitHub Pages:
 
-[https://github.com/nataliaayusocastillo/inclusion-financiera-global]
+[https://nataliaayusocastillo.github.io/inclusion-financiera-global/]
 
 Visualizaciones desarrolladas con Tableau Public:
 
